@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Apeksha 👋  
 
-<!--
-**apeksha-de/apeksha-de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Engineer | PySpark | Azure | SQL**  
+📍 Passionate about building scalable data solutions and optimizing pipelines.  
 
-Here are some ideas to get you started:
+## 🚀 About Me  
+🔹 3+ years of experience in Data Engineering  
+🔹 Skilled in **Azure Data Factory, Databricks, PySpark, SQL, and DevOps**  
+🔹 Currently working with **Genesys API & Apigee for data pipelines**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 My Tech Stack  
+- **Languages:** SQL, Python  
+- **Cloud:** Azure (ADF, ADLS, Databricks)  
+- **ETL Tools:** Azure Data Factory  
+- **Data Processing:** PySpark, Pandas  
+- **Version Control:** Git, GitHub, Azure DevOps  
+
+## 📂 Featured Projects  
+🔹 **[Uber Data Pipeline](#)** - PySpark data cleaning & transformation  
+🔹 **[Cloud Data Migration](#)** - Migrated data from an on-premise system to a cloud-based data lake using **Azure Data Factory & Databricks**  
+🔹 **[Real-time API Data Pipeline](#)** - Built an automated ETL pipeline to process real-time API data using **PySpark & Apigee**  
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=apeksha-de&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apeksha-de&layout=compact&theme=radical)  
+
+## 💬 Connect with Me  
+📧 Email: apeksha25dec@gmail.com  
+🔗 LinkedIn: linkedin.com/in/apekshasrivastav 
+
+---
+
+⭐ **Let's build something great together!** 🚀
+
