@@ -1,84 +1,14 @@
-# 👋 Hi, I'm Apeksha Srivastav
+### Hi, I'm Apeksha 👋
 
-**Senior Data Engineer | Big Data | PySpark | Azure | GCP | Streaming Systems**
+**Data Engineer** based in Bangalore, building scalable batch and real-time data pipelines on cloud lakehouse platforms.
 
-I am a Data Engineer with 3+ years of experience designing and building scalable batch and real-time data pipelines across Azure and GCP. I specialize in PySpark, Databricks, Airflow, Kafka, and cloud-native data architectures.
+- 🔧 I work hands-on with **PySpark, SQL, Databricks, Delta Lake, and Azure**, with a foundation in dimensional data modeling, ETL/ELT, and Medallion architecture.
+- 🚀 At Fractal Analytics I led a **multi-terabyte data migration** and built data-quality & observability frameworks for production pipelines.
+- 🌱 Currently deepening my **modern data stack** skills — **AWS, Snowflake, and dbt** — through hands-on projects.
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/apekshasrivastav) · apeksha25dec@gmail.com
 
-📍 India  
-📧 apeksha25dec@gmail.com  
-🔗 LinkedIn: linkedin.com/in/apekshasrivastav  
+#### 🛠️ Tech Stack
+`Python` `SQL` `PySpark` `Spark` `Databricks` `Delta Lake` `Azure` `AWS` `Snowflake` `dbt` `Airflow` `Kafka` `Docker`
 
----
-
-## 🛠️ Technical Skills
-
-**Big Data & Processing**
-- Apache Spark, PySpark, Databricks
-- Hadoop, Dataflow, Dataproc
-
-**Cloud & Storage**
-- Azure: ADLS, Azure DevOps
-- GCP: BigQuery (Partitioning, Clustering, Cost Optimization), Pub/Sub
-
-**Orchestration**
-- Apache Airflow, Azure Data Factory
-- Databricks Workflows, Cloud Composer
-
-**Streaming**
-- Kafka, Apache Flink (event-time, watermarking)
-- Real-time API ingestion, Pub/Sub
-
-**Data Modeling & Lakehouse**
-- Star & Snowflake schemas
-- SCD Type 1 & 2
-- Delta Lake (ACID, Time Travel)
-- Medallion Architecture (Bronze / Silver / Gold)
-
-**Programming**
-- Python, SQL
-
-**DevOps**
-- CI/CD, Git, GitHub
-
----
-
-## 💼 Professional Experience
-
-### **Fractal Analytics** — *Data Engineer*  
-**Apr 2024 – Present**
-
-- Migrated 5TB+ data from Netezza to Azure ADLS, improving scalability and reliability.
-- Developed and optimized PySpark pipelines on Databricks, reducing runtime by 30%.
-- Integrated real-time Genesys APIs to improve analytics freshness by 15%.
-- Implemented Azure DevOps CI/CD pipelines, reducing deployment time by 40%.
-- Built data quality & observability framework with SLA monitoring and alerts.
-- Designed Delta Lake Medallion Architecture for structured analytics.
-- Built POCs using GCP Dataflow + Pub/Sub for streaming ingestion.
-
-### **Accenture India** — *Data Engineer*  
-**Oct 2021 – Apr 2024**
-
-- Designed PySpark + ADF pipelines processing 10TB+ daily data.
-- Reduced data duplication by 25% through improved data modeling.
-- Implemented SCD Type 2 and schema governance.
-- Optimized SQL queries to improve performance by 35%.
-
----
-
-## 🚀 Key Projects
-
-### **Real-Time Crypto Price Streaming Pipeline**
-**Kafka | Flink | Delta Lake | ADLS / GCS**
-
-- Built a real-time pipeline ingesting live crypto prices using Kafka.
-- Implemented Flink event-time windows and watermarking.
-- Designed Bronze/Silver/Gold Delta Lake layers.
-- Tuned Flink parallelism, state management, and checkpointing.
-- Enabled downstream analytics via Parquet/Delta tables.
-
----
-
-## 🎓 Education
-
-**Bachelor of Engineering – Computer Science**  
-Sant Longowal Institute of Engineering & Technology, Punjab (2017–2020)
+#### 📌 Featured Project
+**[Crypto Analytics Data Platform](https://github.com/apeksha-de/crypto-data-platform)** — End-to-end modern data stack pipeline: API → S3 → PySpark (Medallion) → Snowflake → dbt (incremental models, SCD2, tests), orchestrated by Airflow.
