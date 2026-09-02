@@ -1,14 +1,7 @@
 ### Hi, I'm Apeksha 👋
+Data Engineer based in Bangalore, specializing in building production-grade batch and real-time distributed data pipelines on cloud lakehouse platforms. 
 
-**Data Engineer** based in Bangalore, building scalable batch and real-time data pipelines on cloud lakehouse platforms.
-
-- 🔧 I work hands-on with **PySpark, SQL, Databricks, Delta Lake, and Azure**, with a foundation in dimensional data modeling, ETL/ELT, and Medallion architecture.
-- 🚀 At Fractal Analytics I led a **multi-terabyte data migration** and built data-quality & observability frameworks for production pipelines.
-- 🌱 Currently deepening my **modern data stack** skills — **AWS, Snowflake, and dbt** — through hands-on projects.
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/apekshasrivastav) · apeksha25dec@gmail.com
-
-#### 🛠️ Tech Stack
-`Python` `SQL` `PySpark` `Spark` `Databricks` `Delta Lake` `Azure` `AWS` `Snowflake` `dbt` `Airflow` `Kafka` `Docker`
-
-#### 📌 Featured Project
-**[Crypto Analytics Data Platform](https://github.com/apeksha-de/crypto-data-platform)** — End-to-end modern data stack pipeline: API → S3 → PySpark (Medallion) → Snowflake → dbt (incremental models, SCD2, tests), orchestrated by Airflow.
+* 🛠️ **Core Expertise:** PySpark, SQL, Azure Databricks, Delta Lake, and Multi-Cloud Architecture (Azure & AWS S3 API).
+* 📐 **Architecture Focus:** End-to-end ELT/ETL system design, Medallion Architecture, and Dimensional Modeling.
+* 🚀 **Proven Scale:** Spearheaded a 5TB+ multi-node warehouse migration and slashed pipeline latency by 98% (from 24 hours to 15 minutes) using Databricks Workflows.
+* ⚡ **Advanced Modern Stack:** Actively implementing stateful event streaming (Kafka, Flink) and robust analytics layers (dbt, Airflow, Snowflake API).
